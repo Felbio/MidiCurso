@@ -10,7 +10,6 @@ function tocaSom(seletorAudio){
 
 const listaTeclas = document.querySelectorAll('.tecla');
 
-
 for (let count = 0; count < listaTeclas.length; count++){
     
     const tecla = listaTeclas[count];
